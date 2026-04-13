@@ -11,7 +11,7 @@
  
 ### 👨‍💻 About Me
  
-- 🎓 B.Tech in **Electronics & Communication Engineering** @ Bharati Vidyapeeth's College of Engineering, New Delhi (CGPA: 8.51/10)
+- 🎓 B.Tech in **Electronics & Communication Engineering** @ Bharati Vidyapeeth's College of Engineering, New Delhi (CGPA: 8.65/10)
 - 🔭 Currently building projects in **Computer Vision**, **Deep Learning**, and **Data Analytics**
 - 🌱 Exploring **CNN architectures**, **OCR systems**, and **ML pipelines**
 - 🏆 IEEE Ideathon Mission Lead | Zomathon Hackathon Participant
